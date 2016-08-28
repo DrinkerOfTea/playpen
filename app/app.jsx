@@ -3,9 +3,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import HelloWorld from './stuff/helloWorld/HelloWorld.jsx';
+import OverlayExample from './stuff/reactOverlays/OverlayExample.jsx';
 
 ReactDOM.render(
-    <HelloWorld>Hello World!</HelloWorld>,
+    <OverlayExample></OverlayExample>,
     document.getElementById('app')
 );
