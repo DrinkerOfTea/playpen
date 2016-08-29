@@ -29,5 +29,9 @@
     "react-mixin": "^3.0.5",
     "react-tap-event-plugin": "^1.0.0",
     "roboto-fontface": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrinkerOfTea/playpen.git"
   }
 }
