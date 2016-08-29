@@ -25,6 +25,7 @@ var bundle = function bundle(watch) {
             extensions  : ['.jsx'],
             cache       : {},
             packageCache: {},
+            debug       : true
         }).
         transform(babelify.configure({
             presets: ["es2015", "react", "stage-1"]

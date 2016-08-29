@@ -3,9 +3,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import HelloWorld from './stuff/helloWorld/HelloWorld.jsx';
+//import HelloWorld from './stuff/helloWorld/HelloWorld.jsx';
+import OverwatchChooser from './stuff/morearty/OverwatchChooser.jsx';
 
 ReactDOM.render(
-    <HelloWorld>Hello World!</HelloWorld>,
+    <OverwatchChooser/>,
     document.getElementById('app')
 );
